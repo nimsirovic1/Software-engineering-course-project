@@ -11,7 +11,7 @@
     "@pusher/chatkit-server": "^1.1.0",
     "@webscopeio/react-textarea-autocomplete": "^4.4.0",
     "autotable": "^1.0.0",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "babel-types": "^6.26.0",
     "bootstrap": "^4.3.1",
     "bootswatch": "^4.3.1",
